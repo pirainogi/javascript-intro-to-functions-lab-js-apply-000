@@ -31,6 +31,6 @@ function SayHiToGrandma(string)
     return uppercase;
   }
   else if ("I love you, Grandma." === "I love you, Grandma."){
-    return mixed;  
+    return mixed; 
   }  
 }
