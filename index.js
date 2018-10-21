@@ -25,6 +25,8 @@ function logSayHiToGrandma(string)
   var mixed = "I love you, too.";
   
   if (string.toLowerCase() === string){
-    return lowercase}
+    return lowercase;
+  }
+  
   }  
 }
