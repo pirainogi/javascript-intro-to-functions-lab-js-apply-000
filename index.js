@@ -31,7 +31,7 @@ function logSayHiToGrandma(string)
     return uppercase;
   }
   else if ("I love you, Grandma." === string){
-    return   
+    return mixed;  
   }
   }  
 }
