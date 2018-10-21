@@ -27,6 +27,6 @@ function logSayHiToGrandma(string)
   if (string.toLowerCase() === string){
     return lowercase;
   }
-  
+  else if 
   }  
 }
