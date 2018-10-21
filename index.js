@@ -24,5 +24,5 @@ function logSayHiToGrandma(string)
   var uppercase = "YES INDEED!";
   var mixed = "I love you, too.";
   
-  if string.toLowerCase() = string  
+  if string.toLowerCase() === string  
 }
