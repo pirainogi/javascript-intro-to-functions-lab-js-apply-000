@@ -21,4 +21,8 @@ function logWhisper(string)
 function logSayHiToGrandma(string)
 {
   var lowercase = "I can't hear you!"
+  var uppercase = "YES INDEED!"
+  var mixed = "I love you, too."
+  
+  
 }
