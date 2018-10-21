@@ -27,6 +27,10 @@ function logSayHiToGrandma(string)
   if (string.toLowerCase() === string){
     return lowercase;
   }
-  else if 
+  else if (string.toUpperCase() === string){
+    return uppercase;
+  }
+  else if (string.)
+  }
   }  
 }
