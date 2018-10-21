@@ -32,6 +32,5 @@ function logSayHiToGrandma(string)
   }
   else if ("I love you, Grandma." === string){
     return mixed;  
-  }
   }  
 }
